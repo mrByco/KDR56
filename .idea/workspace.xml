@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2110f3a-3391-4d20-ac20-72ffdd14561a" name="Default Changelist" comment="gitignore update">
+      <change afterPath="$PROJECT_DIR$/.idea/Kádár.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kIoQFRqvrfESYW4ONsjHrWOTF0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dockerfile" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="E:\Development\Repos\Kádár\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Development\Repos\Kádár" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2110f3a-3391-4d20-ac20-72ffdd14561a" name="Default Changelist" comment="" />
+      <created>1605397449148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605397449148</updated>
+      <workItem from="1605397450241" duration="5755000" />
+      <workItem from="1605426345317" duration="212000" />
+      <workItem from="1605427697855" duration="2025000" />
+      <workItem from="1605430681116" duration="205000" />
+    </task>
+    <task id="LOCAL-00001" summary="gitignore update">
+      <created>1605428452880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605428452880</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitignore update">
+      <created>1605428479029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605428479029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore update" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605426472657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605426472657" />
+    <state x="624" y="279" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605429531376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-972" y="231" key="#com.intellij.fileTypes.FileTypeChooser/-1440.0.1440.860/0.0.1920.1040@-1440.0.1440.860" timestamp="1605403962061" />
+    <state x="624" y="279" key="#com.intellij.fileTypes.FileTypeChooser/-1440.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605429531376" />
+    <state x="739" y="272" key="FileChooserDialogImpl" timestamp="1605426437037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="272" key="FileChooserDialogImpl/-1440.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605426437037" />
+    <state x="838" y="417" key="Github.ShareDialog" timestamp="1605428369694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="417" key="Github.ShareDialog/-1440.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605428369694" />
+    <state x="801" y="224" key="Github.UntrackedFilesDialog" timestamp="1605428395135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="224" key="Github.UntrackedFilesDialog/-1440.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605428395135" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1605405339812">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/-1440.0.1440.860/0.0.1920.1040@-1440.0.1440.860" timestamp="1605405339812" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/-1440.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605398512687" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1605405339812">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/-1440.0.1440.860/0.0.1920.1040@-1440.0.1440.860" timestamp="1605405339812" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/-1440.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605398512687" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1605405339811">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/-1440.0.1440.860/0.0.1920.1040@-1440.0.1440.860" timestamp="1605405339811" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/-1440.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605398512687" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1605405339812">
+      <screen x="-1440" y="0" width="1440" height="860" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/-1440.0.1440.860/0.0.1920.1040@-1440.0.1440.860" timestamp="1605405339812" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/-1440.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605398512687" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605428485830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1440.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605428485830" />
+  </component>
+</project>
